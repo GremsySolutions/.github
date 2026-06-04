@@ -95,8 +95,6 @@ The core software development kit powering our client applications and empowerin
 
 **Tech Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-[💻 View SDK Repository](https://github.com/GremsySolutions/NexGCS-SDK)
-
 ---
 
 ## ⚙️ Technology Stack Overview
