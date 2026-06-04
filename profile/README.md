@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚁 [Gremsy Solutions / NexGCS Ecosystem]
+# [Gremsy Solutions / NexGCS Ecosystem]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Next-Gen+Ground+Control+Systems;UAV+Telemetry+%26+Control;Cross-Platform+GCS+Architecture;Open+Source+Developer+SDK)](https://git.io/typing-svg)
 
@@ -29,7 +29,7 @@ Our architecture is built on clean principles, prioritizing industrial safety, l
 <tr>
 <td width="50%" valign="top">
 
-### 🚁 [Mobile NexGCS](https://github.com/GremsySolutions/Mobile-NexGCS)
+### [Mobile NexGCS](https://github.com/GremsySolutions/Mobile-NexGCS)
 **Android Ground Control Station**
 
 A comprehensive, high-performance GCS application optimized for Android devices. Designed for field operations, it handles real-time telemetry rendering and complex mission planning on the go.
@@ -53,7 +53,7 @@ A comprehensive, high-performance GCS application optimized for Android devices.
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ [Windows NexGCS](https://github.com/GremsySolutions/Windows-NexGCS)
+### [Windows NexGCS](https://github.com/GremsySolutions/Windows-NexGCS)
 **Desktop Ground Control Station**
 
 A robust desktop client built to leverage maximum hardware performance for complex mission monitoring, low-latency video streaming, and detailed telemetry analysis.
