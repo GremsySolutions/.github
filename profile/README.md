@@ -43,19 +43,14 @@ A comprehensive, high-performance GCS application optimized for Android devices.
 
 **Tech Stack:**
 - **Framework**: Jetpack Compose
-- **Language**: Kotlin
+- **Language**: Kotlin, Java, C++
 
 [💻 View Mobile Repo](https://github.com/GremsySolutions/Mobile-NexGCS)
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-mobile-flightview.jpg" width="100%" alt="Left Image" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-mobile-camera.jpg" width="100%" alt="Right Image" />
-    </td>
-  </tr>
-</table>
+<br/><br/>
+<p align="center">
+  <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-mobile-flightview.jpg?raw=true" width="48%" alt="Mobile Flight View" />
+  <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-mobile-camera.jpg?raw=true" width="48%" alt="Mobile Camera" />
+</p>
 </td>
 <td width="50%" valign="top">
 
@@ -75,16 +70,11 @@ A robust desktop client built to leverage maximum hardware performance for compl
 - **Language**: C#
 
 [💻 View Windows Repo](https://github.com/GremsySolutions/Windows-NexGCS)
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows_dashboard.png" width="100%" alt="Left Image" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows-camera.png" width="100%" alt="Right Image" />
-    </td>
-  </tr>
-</table>
+<br/><br/>
+<p align="center">
+  <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows_dashboard.png?raw=true" width="48%" alt="Windows Dashboard" />
+  <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows-camera.png?raw=true" width="48%" alt="Windows Camera" />
+</p>
 
 </td>
 </tr>
