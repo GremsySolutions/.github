@@ -95,7 +95,7 @@ The core software development kit powering our client applications and empowerin
 - 🛡️ Built-in compliance with strict software and linting standards
 - 📚 Comprehensive APIs for custom payload integrations
 
-**Tech Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JNI/NDK](https://img.shields.io/badge/JNI%2FNDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Tech Stack:** ![Kotlin](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 [💻 View SDK Repository](https://github.com/GremsySolutions/NexGCS-SDK)
 
@@ -110,9 +110,10 @@ The core software development kit powering our client applications and empowerin
 ![WinUI3](https://img.shields.io/badge/WinUI3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![JNI/NDK](https://img.shields.io/badge/JNI%2FNDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### **Core Systems & Protocols**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MAVLink](https://img.shields.io/badge/MAVLink-1F425F?style=for-the-badge)
 ![GStreamer](https://img.shields.io/badge/GStreamer-000000?style=for-the-badge&logo=gstreamer&logoColor=white)
 
