@@ -78,7 +78,7 @@ A robust desktop client built to leverage maximum hardware performance for compl
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows-dashboard.png" width="100%" alt="Left Image" />
+      <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows_dashboard.png" width="100%" alt="Left Image" />
     </td>
     <td width="50%">
       <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows-camera.png" width="100%" alt="Right Image" />
