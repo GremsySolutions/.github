@@ -45,7 +45,6 @@ A comprehensive, high-performance GCS application optimized for Android devices.
 - **Framework**: Jetpack Compose
 - **Language**: Kotlin, Java, C++
 
-[💻 View Mobile Repo](https://github.com/GremsySolutions/Mobile-NexGCS)
 <br/><br/>
 <p align="center">
   <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-mobile-flightview.jpg?raw=true" width="48%" alt="Mobile Flight View" />
@@ -69,7 +68,6 @@ A robust desktop client built to leverage maximum hardware performance for compl
 - **Framework**: WinUI 3
 - **Language**: C#
 
-[💻 View Windows Repo](https://github.com/GremsySolutions/Windows-NexGCS)
 <br/><br/>
 <p align="center">
   <img src="https://github.com/GremsySolutions/.github/blob/main/assets/nexgcs-windows_dashboard.png?raw=true" width="48%" alt="Windows Dashboard" />
