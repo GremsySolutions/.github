@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Our Organization
+## 🚀 About us
 
 Welcome to the official GitHub organization for **NexGCS**. We are dedicated to building robust, high-performance Ground Control Systems and the foundational developer tools needed to scale UAV applications across modern mobile and desktop environments.
 
