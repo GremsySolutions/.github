@@ -35,6 +35,7 @@ Our architecture is built on clean principles, prioritizing industrial safety, l
 A comprehensive, high-performance GCS application optimized for Android devices. Designed for field operations, it handles real-time telemetry rendering and complex mission planning on the go.
 
 **Key Features:**
+- 📹 Hardware-accelerated video streaming
 - ✅ Touch-optimized interface for field operations
 - 🗺️ Advanced mobile map integrations and geofencing
 - 📱 Real-time MAVLink data parsing and transfer
@@ -55,7 +56,7 @@ A comprehensive, high-performance GCS application optimized for Android devices.
 A robust desktop client built to leverage maximum hardware performance for complex mission monitoring, low-latency video streaming, and detailed telemetry analysis.
 
 **Key Features:**
-- 📹 Hardware-accelerated video streaming (GStreamer integration)
+- 📹 Hardware-accelerated video streaming with DirectX
 - 📊 Expanded UI for multi-monitor mission control
 - ⚡ High-performance desktop data processing
 - 🔌 Direct hardware-to-software protocol integration
