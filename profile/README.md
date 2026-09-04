@@ -124,6 +124,8 @@ A robust desktop client built to leverage maximum hardware performance for compl
 ### 📦 [NexGCS-SDK](https://github.com/GremsySolutions/NexGCS-SDK)
 **Base Development SDK for GCS**
 
+[![Latest Version](https://img.shields.io/badge/latest-v1.0.2-2E9EF7?style=for-the-badge)](https://github.com/GremsySolutions/NexGCS-SDK-Release/packages/3084912)
+
 The core software development kit powering our client applications and empowering developers to build, extend, and customize their own GCS solutions. It provides the essential building blocks, database structuring, and connection protocols for UAV communication.
 
 **Key Features:**
@@ -144,7 +146,7 @@ The core software development kit powering our client applications and empowerin
 
 We welcome contributions from the UAV and software development communities! If you are interested in building with NexGCS or improving our SDK, please check out our repository guidelines.
 
-- 📖 **Documentation**: 
+- 📖 **Documentation**: [Base for Developers — Ground Control Systems](https://gremsysolutions.gitbook.io/gremsy-solutions-documentation/base-for-developers/ground-control-systems)
 - 🐛 **Issue Tracker**: Please use the respective repository's Issues tab to report bugs or request features.
 - 💬 **Community/Support**: 
 
